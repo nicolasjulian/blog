@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://nicolasjulian.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -50,11 +50,11 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: nicolasjulian21@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
+    name: Nicolas Julian
     bio: A Man who travels the world eating noodles
     external-image: false
     picture: assets/images/profile.jpg
